@@ -38,3 +38,7 @@ Timekeeping: The core of the clock is a precise 1-second delay generated using t
 Set Alarm: The user can press a dedicated key to enter the alarm-setting mode, inputting the desired alarm time.
 Alarm Check: In its main loop, the firmware continuously compares the current time with the stored alarm time
 Trigger Buzzer: If the times match, the microcontroller sends a signal to activate the buzzer.
+
+circut diagram
+<img width="940" height="613" alt="image" src="https://github.com/user-attachments/assets/a0975cd5-54a5-45e0-807e-5bc3305677cf" />
+
